@@ -1,0 +1,6 @@
+/.deps/
+/build/
+/data/
+/results/
+__pycache__/
+*.pyc
